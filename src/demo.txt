@@ -1,0 +1,102 @@
+---- Explore Free Resource to Learn Programming ----
+
+--- How to become Software Enginner how to enter IT field ----
+
+
+-- roadmap for clg to job ----
+-- Programming langs 
+-- DSA 
+-- internship
+-- projects 
+-- placement ready bana
+-- off - campus 
+-- get the jobs 
+
+
+--fy year roadmap :
+-- programmin langua
+-- DSA 
+-- build mini projects 
+
+
+-- sy year roadmaps 
+  -- DSA 
+  -- Build Placement projects
+  --- Intership apply
+  -- participate hackthons 
+
+  -- last years 
+  -- DSA 
+  -- Internship 
+  -- Learn Modern Technology  Ai , blockchain 
+  -- Competative programming 
+  -- 
+  -- and get the  dream JOB ---
+
+
+step - 1 ) select Programming langs 
+
+           how to select : 
+           1) trend 
+           2) sallry
+           3) suppprt 
+           4) future
+           5) interest
+          
+step - 2 )
+select job field :
+    - web dev 
+    - app dev
+    - ml 
+    - ai 
+    - blockchain 
+    - app dev 
+    - testing
+    - ui / ux 
+
+    -------------------------------------------
+
+projects : 
+
+STEP - 4 Build Placement Ready Projects :
+All Domains : 
+beginer level :
+
+list of projects : 
+
+Intermidate level: 
+list of projects 
+advance level : 
+list of projects :
+
+
+still Confusing JOIN OUR FREE PLACEMENT COURSE : 
+
+
+
+Quick Links
+Beginner Programming Projects
+Make Your Own Chess Game
+Code a Mobile App
+Build Your Own Calculator
+Create a To-Do List App
+Develop a Weight Conversion Tool
+Code a Rock, Paper, Scissors Game
+Build Your Own Tic-Tac-Toe Game
+Web Scraper With Python
+Build a Basic HTML5 Website
+Build a Simple JavaScript Slideshow
+The Best Programming Projects for Beginners: Start Small, Think Big
+
+
+adnvce level projects : 
+- find uniqueness 
+- Learning and Time 
+-skill developement 
+- modern technology 
+- more functonality 
+- problem solving project
+
+
+
+      

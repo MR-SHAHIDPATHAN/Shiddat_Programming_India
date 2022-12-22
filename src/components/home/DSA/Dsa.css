@@ -1,0 +1,234 @@
+
+
+.dsa_parent{
+  /* border: 1px solid red; */
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  /* box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px; */
+  border-radius: 10px;
+  /* background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%); */
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+padding: 1rem;
+background-color: rgb(255, 255, 255);
+
+
+}
+
+.dsa_parent > h1{
+  text-align: center;
+  color: rgb(184, 4, 73);
+  font-size: 4rem;
+}
+
+
+
+.dsa_parent > p{
+  text-align: center;
+  font-size: 1.5rem;
+  color: rgb(53, 0, 106);
+  font-weight: bold;
+}
+
+
+.child_parent{
+  /* border: 1px solid rgb(255, 0, 102); */
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  align-items: center;
+  margin-top: 1rem;
+  
+  
+
+}
+
+.child_parent > .child{
+  background-color: rgb(239, 239, 239);
+  width: 100%;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  border-radius: 1rem;
+  cursor: pointer;
+ 
+  
+
+}
+
+.child_parent > .child:hover{
+  background-color: rgb(252, 226, 237);
+  color: black;
+}
+
+
+.child > a{
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-left: 1rem;
+  color: rgb(53, 51, 51);
+}
+
+.child > span{
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-left: 1rem;
+  color: rgb(53, 51, 51);
+}
+
+.dsa_h3{
+  text-align: center;
+  margin-top: 1rem;
+}
+
+
+
+
+ .step_1_child{
+  
+  padding: 1rem;
+  background-color: aliceblue;
+  box-shadow: rgba(255, 255, 255, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+border-radius: 1rem;
+display: flex;
+align-items: center;
+
+  }
+
+
+
+.step_1_child > .step_1_p{
+  background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+   
+    padding: 1rem;
+    border-radius: 1rem;
+  box-shadow: rgba(255, 255, 255, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: rgb(250, 246, 237);
+  margin-right: 1rem;
+
+
+  }
+
+  .step_1_child > .step_1_p2{
+    font-size: 1.5rem;
+    font-weight: bold;
+  } 
+
+
+
+
+@media (min-width:769px) and (max-width:1024px){
+
+
+  .dsa_parent > h1{
+    text-align: center;
+    color: rgb(184, 4, 73);
+    font-size: 3rem;
+    padding: 1rem;
+  }
+  
+
+  .dsa_parent > p{
+    text-align: center;
+    font-size: 1.3rem;
+    color: rgb(53, 0, 106);
+    /* font-weight: bold; */
+  }
+
+  .child_parent{
+    /* border: 1px solid rgb(255, 0, 102); */
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 1rem;
+    align-items: center;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+    
+    
+  
+  }
+  
+
+}
+
+
+@media (min-width: 481px) and (max-width: 768px) {
+
+  .dsa_parent > h1{
+    text-align: center;
+    color: rgb(184, 4, 73);
+    font-size: 1.7rem;
+    padding: 0.5rem;
+  }
+
+
+  
+.dsa_parent > p{
+  text-align: center;
+  font-size: 1rem;
+  color: rgb(53, 0, 106);
+  font-weight: bold;
+}
+
+.child_parent{
+  /* border: 1px solid rgb(255, 0, 102); */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 2rem;
+  align-items: center;
+  margin-top: 1rem;
+  
+  
+
+}
+
+
+
+
+}
+
+
+
+
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+  .dsa_parent > h1{
+    text-align: center;
+    color: rgb(184, 4, 73);
+    font-size: 1.7rem;
+    padding: 0.5rem;
+  }
+
+
+  
+.dsa_parent > p{
+  text-align: center;
+  font-size: 1rem;
+  color: rgb(53, 0, 106);
+  font-weight: bold;
+}
+
+.child_parent{
+  /* border: 1px solid rgb(255, 0, 102); */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 2rem;
+  align-items: center;
+  margin-top: 1rem;
+  
+  
+
+}
+
+
+
+
+}

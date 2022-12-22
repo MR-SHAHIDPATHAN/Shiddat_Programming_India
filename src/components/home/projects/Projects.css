@@ -1,0 +1,89 @@
+
+
+.step_1_child{
+  margin-top: 1rem;
+}
+ 
+
+.beginer_level > h3{
+  padding: 1rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 1rem;
+  font-size: 1.5rem;
+}
+
+
+
+
+.beginer_level > h2{
+  padding: 1rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 1rem;
+  font-size: 1.5rem;
+  color: rgb(255, 0, 81);
+  text-transform: uppercase;
+}
+  
+.beginer_level > ul{
+
+    font-size: 1rem;
+    /* border: 1px solid red; */
+    margin: 1rem;
+  
+}
+
+
+ul > a {
+  padding: 0.5rem;
+  /* border: 1px solid blue; */
+  font-weight: 600;
+ 
+}
+
+.intermidate_level > h3{
+  padding: 1rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 1rem;
+  font-size: 1.5rem;
+}
+
+
+.intermidate_level > h2{
+  padding: 1rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 1rem;
+  font-size: 1.5rem;
+  color: rgb(255, 0, 81);
+  text-transform: uppercase;
+}
+
+
+.advance_level > h3{
+  padding: 1rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 1rem;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}
+
+.advance_level > p{
+  font-weight: bold;
+  padding: 1rem;
+  font-size: 1.2rem;
+  color: rgb(49, 49, 49);
+}
+
+.advance_level > h2{
+  padding: 1rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 1rem;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  color: rgb(255, 0, 55);
+}

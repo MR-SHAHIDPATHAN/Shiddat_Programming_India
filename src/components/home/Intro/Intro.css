@@ -1,0 +1,448 @@
+*{
+  font-family: 'Nunito', sans-serif;
+
+}
+
+
+.parent{
+  /* background-color: rgb(34, 122, 200); */
+    /* display: grid; */
+    display: flex;
+    /* grid-template-columns: 1fr 1fr 1fr 1fr; */
+    justify-content: space-evenly;
+    gap: 1rem 1rem;
+    /* grid-auto-flow: row; */
+    /* border: 1px solid red; */
+    margin: 10px;
+    height: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  
+  
+}
+
+.it_field{
+  
+  /* border: 1px solid blue; */
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  border-radius: 10px;
+
+  
+}
+
+
+
+
+.it_field > .title_logo{
+  /* background-color: rgb(0, 123, 255); */
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+  border-radius: 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+ 
+}
+
+.title_logo > p{
+  font-weight: bold;
+  color: white;
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
+}
+
+
+.title_logo > .title_icn_1{
+  color: rgb(255, 255, 255);
+
+  background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+  
+  font-size: 2.2rem;
+  border-radius: 10px;
+  padding: 0.5rem;
+}
+
+
+
+.it_langs > .title_icn_2{
+  color: rgb(255, 255, 255);
+
+  background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%) ;
+
+  
+  font-size: 2.2rem;
+  border-radius: 10px;
+  padding: 0.5rem;
+}
+
+
+.it_nontech > .title_icn_3{
+  color: rgb(255, 255, 255);
+
+  background-image: linear-gradient(-60deg, #ff5858 0%, #f09819 100%);
+
+
+  
+  font-size: 2.2rem;
+  border-radius: 10px;
+  padding: 0.5rem;
+}
+
+
+.plcements > .title_icn_4{
+  color: rgb(255, 255, 255);
+  background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
+
+  font-size: 2.2rem;
+  border-radius: 10px;
+  padding: 0.5rem;
+}
+
+
+
+
+
+
+
+
+
+.it_field > .it_list{
+  /* background-color: rgb(221, 0, 0); */
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  color: rgb(47, 47, 47);
+}
+
+.it_field > .it_list_1{
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  padding: 0.5rem;
+  align-items: center;
+  margin-top: 0.2rem;
+  cursor: pointer;
+  /* border-radius:10px; */
+}
+
+
+.it_field > .it_list_1:hover{
+  background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+  color: rgb(255, 255, 255);
+  
+
+}
+
+
+
+.it_list_1  > .demo{
+  /* background-color: rgb(7, 231, 247); */
+  background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+
+  border-radius: 5px;
+  color: white;
+  margin-right: 0.5rem;
+  padding: 0.1rem;
+
+}
+
+.it_list_1  > .demo1{
+  /* background-color: rgb(7, 231, 247); */
+  background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+  border-radius: 5px;
+  color: white;
+  margin-right: 0.5rem;
+  padding: 0.1rem;
+
+}
+
+
+.it_list_1  > .demo2{
+  /* background-color: rgb(7, 231, 247); */
+  background-image: linear-gradient(-60deg, #ff5858 0%, #f09819 100%);
+  border-radius: 5px;
+  color: white;
+  margin-right: 0.5rem;
+  padding: 0.1rem;
+
+}
+
+.it_list_1  > .demo3{
+  /* background-color: rgb(7, 231, 247); */
+  background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
+  border-radius: 5px;
+  color: white;
+  margin-right: 0.5rem;
+  padding: 0.1rem;
+
+}
+
+
+
+
+
+
+
+
+
+.it_list_1 > p{
+   font-size: 1rem;
+   font-weight: bold;
+   text-transform: capitalize;
+}
+
+
+/*✅✅✅ it programming langugw css here  */
+
+ .it_field > .it_langs{
+
+  /* background-color: rgb(0, 123, 255); */
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+  border-radius: 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+
+}
+
+
+.it_langs > p{
+  font-weight: bold;
+  color: white;
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
+}
+
+
+.it_langs > .title_icn_1{
+  color: rgb(255, 186, 82);
+  font-size: 2.2rem;
+}
+
+#pro_langs:hover{
+  background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+  
+}
+
+
+/* ✅✅✅✅✅ Non Technical Jobs  css here */
+
+
+.it_field > .it_nontech{
+
+  /* background-color: rgb(0, 123, 255); */
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
+  border-radius: 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+
+}
+
+
+.it_nontech > p{
+  font-weight: bold;
+  color: white;
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
+}
+
+
+.it_nontech > .title_icn_1{
+  color: rgb(255, 186, 82);
+  font-size: 2.2rem;
+}
+
+#nontech:hover{
+  background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
+
+}
+
+
+/* ✅✅✅✅ Placement css start  */
+
+
+.it_field > .plcements{
+
+  /* background-color: rgb(0, 123, 255); */
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(-60deg, #ff5858 0%, #f09819 100%);
+  border-radius: 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  -webkit-transition: all .5s;
+  -moz-transition: all .5s;
+  transition: all .5s;
+
+}
+
+
+.plcements > p{
+  font-weight: bold;
+  color: white;
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
+}
+
+
+.plcements > .title_icn_1{
+  color: rgb(255, 186, 82);
+  font-size: 2.2rem;
+}
+
+#plcment:hover{
+  background-image: linear-gradient(-60deg, #ff5858 0%, #f09819 100%);
+  -webkit-transition: all .5s;
+  -moz-transition: all .5s;
+  transition: all .5s;
+
+}
+
+
+
+@media (min-width: 1025px) and (max-width: 1200px) {
+  
+  .parent{
+    /* background-color: rgb(34, 122, 200); */
+      /* display: grid; */
+      display: flex;
+      flex-direction: column;
+      /* grid-template-columns: 1fr 1fr 1fr 1fr; */
+      justify-content: space-evenly;
+      gap: 0px 1rem;
+      /* grid-auto-flow: row; */
+      /* border: 1px solid red; */
+      margin: 10px;
+      height: auto;
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+    
+    
+  }
+  
+  
+  
+  }
+
+
+
+
+
+@media(min-width:769px) and (max-width:1024px){
+
+
+  
+.parent{
+  /* background-color: rgb(34, 122, 200); */
+    /* display: grid; */
+    display: flex;
+    flex-direction: column;
+    /* grid-template-columns: 1fr 1fr 1fr 1fr; */
+    justify-content: space-evenly;
+    gap: 0px 1rem;
+    /* grid-auto-flow: row; */
+    /* border: 1px solid red; */
+    margin: 10px;
+    height: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  
+  
+}
+
+.it_field{
+  
+  /* border: 1px solid blue; */
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  border-radius: 10px;
+  margin-bottom: 1.5rem;
+
+  
+}
+
+
+
+}
+
+
+
+@media (min-width: 481px) and (max-width: 768px) {
+
+
+   
+.parent{
+  /* background-color: rgb(34, 122, 200); */
+    /* display: grid; */
+    display: flex;
+    flex-direction: column;
+    /* grid-template-columns: 1fr 1fr 1fr 1fr; */
+    justify-content: space-evenly;
+    gap: 0px 1rem;
+    /* grid-auto-flow: row; */
+    /* border: 1px solid red; */
+    margin: 10px;
+    height: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  
+  
+}
+
+
+.it_field{
+  
+  /* border: 1px solid blue; */
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  border-radius: 10px;
+  margin-bottom: 1.5rem;
+
+  
+}
+
+
+
+}
+
+
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+
+   
+  .parent{
+    /* background-color: rgb(34, 122, 200); */
+      /* display: grid; */
+      display: flex;
+      flex-direction: column;
+      /* grid-template-columns: 1fr 1fr 1fr 1fr; */
+      justify-content: space-evenly;
+      gap: 0px 1rem;
+      /* grid-auto-flow: row; */
+      /* border: 1px solid red; */
+      margin: 10px;
+      height: auto;
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+    
+    
+  }
+  
+  
+  .it_field{
+    
+    /* border: 1px solid blue; */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    border-radius: 10px;
+    margin-bottom: 1.5rem;
+  
+    
+  }
+  
+  
+  
+  }
