@@ -19,7 +19,7 @@ import cloudarchi from './../../../images/cloud-storage.png'
 import dbms from './../../../images/database.png'
 import netwope from './../../../images/networking.png'
 import wordpress from './../../../images/wordpress.png'
-import WhatsAppIcon from '@mui/icons-material/WhatsApp';
+// import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 
 
 

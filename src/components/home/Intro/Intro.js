@@ -1,6 +1,6 @@
 import React from 'react'
-import JavascriptIcon from '@mui/icons-material/Javascript';
-import WorkIcon from '@mui/icons-material/Work';
+// import JavascriptIcon from '@mui/icons-material/Javascript';
+// import WorkIcon from '@mui/icons-material/Work';
 
 
 import CodeIcon from '@mui/icons-material/Code';
@@ -12,24 +12,24 @@ import BrandingWatermarkIcon from '@mui/icons-material/BrandingWatermark';
 import CloudDoneIcon from '@mui/icons-material/CloudDone';
 import AirIcon from '@mui/icons-material/Air';
 import DeveloperBoardOffIcon from '@mui/icons-material/DeveloperBoardOff';
-import KeyboardIcon from '@mui/icons-material/Keyboard';
-import IntegrationInstructionsIcon from '@mui/icons-material/IntegrationInstructions';
-import HtmlIcon from '@mui/icons-material/Html';
+// import KeyboardIcon from '@mui/icons-material/Keyboard';
+// import IntegrationInstructionsIcon from '@mui/icons-material/IntegrationInstructions';
+// import HtmlIcon from '@mui/icons-material/Html';
 import CssIcon from '@mui/icons-material/Css';
 import DatasetLinkedIcon from '@mui/icons-material/DatasetLinked';
-import TableRowsIcon from '@mui/icons-material/TableRows';
-import TagIcon from '@mui/icons-material/Tag';
-import GppGoodIcon from '@mui/icons-material/GppGood';
+// import TableRowsIcon from '@mui/icons-material/TableRows';
+// import TagIcon from '@mui/icons-material/Tag';
+// import GppGoodIcon from '@mui/icons-material/GppGood';
 import AndroidIcon from '@mui/icons-material/Android';
 import AirlineSeatReclineNormalIcon from '@mui/icons-material/AirlineSeatReclineNormal';
-import MobileScreenShareIcon from '@mui/icons-material/MobileScreenShare';
-import PhotoAlbumIcon from '@mui/icons-material/PhotoAlbum';
+// import MobileScreenShareIcon from '@mui/icons-material/MobileScreenShare';
+// import PhotoAlbumIcon from '@mui/icons-material/PhotoAlbum';
 import CameraIcon from '@mui/icons-material/Camera';
-import Rotate90DegreesCcwIcon from '@mui/icons-material/Rotate90DegreesCcw';
-import HubIcon from '@mui/icons-material/Hub';
+// import Rotate90DegreesCcwIcon from '@mui/icons-material/Rotate90DegreesCcw';
+// import HubIcon from '@mui/icons-material/Hub';
 import AutoGraphIcon from '@mui/icons-material/AutoGraph';
 import ConnectWithoutContactIcon from '@mui/icons-material/ConnectWithoutContact';
-import LanguageIcon from '@mui/icons-material/Language';
+// import LanguageIcon from '@mui/icons-material/Language';
 import AccountBoxIcon from '@mui/icons-material/AccountBox';
 import CastForEducationIcon from '@mui/icons-material/CastForEducation';
 import EarbudsIcon from '@mui/icons-material/Earbuds';
