@@ -2,8 +2,7 @@ import React from 'react'
 import JavascriptIcon from '@mui/icons-material/Javascript';
 import WorkIcon from '@mui/icons-material/Work';
 
-import CodeOffIcon from '@mui/icons-material/CodeOff';
-import ViewInArIcon from '@mui/icons-material/ViewInAr';
+
 import CodeIcon from '@mui/icons-material/Code';
 import AppShortcutIcon from '@mui/icons-material/AppShortcut';
 import './Intro.css'

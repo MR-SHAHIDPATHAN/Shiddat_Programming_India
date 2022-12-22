@@ -29,7 +29,7 @@ const Projects = () => {
       <a href="https://github.com/topics/python-web-scraper">    <li> Web Scraper With Python </li> </a>
      <a href="https://github.com/topics/html5-websites">  <li>Build a Basic HTML5 Website</li> </a>
      <a href="https://github.com/soggybag/js-tutorial-slide-show"> <li>Build a Simple JavaScript Slideshow</li> </a>
-     <a href="#">  <li>The Best Programming Projects for Beginners: Start Small, Think Big </li> </a>
+     <li>The Best Programming Projects for Beginners: Start Small, Think Big </li> 
     
     </ul>
     <h2> for more Projects  JOIN FREE PLACEMENT COURSE </h2>
@@ -55,7 +55,7 @@ const Projects = () => {
      <a href="https://github.com/anas337/Human-Activity-Recognition-Using-Smartphones.github.io"> <li>Fitness activity recognition for smartphone</li> </a>
      <a href="https://github.com/topics/handwritten-digit-recognition"> <li>Handwritten digit classification system</li> </a>
      <a href="https://github.com/topics/personality-prediction"> <li>Personality prediction system</li> </a>
-     <a href="#">  <li>The Best Programming Projects for Beginners: Start Small, Think Big </li> </a>
+ <li>The Best Programming Projects for Beginners: Start Small, Think Big </li> 
     
     </ul>
     <h2> for more Projects  JOIN FREE PLACEMENT COURSE </h2>

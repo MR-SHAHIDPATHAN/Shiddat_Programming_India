@@ -435,7 +435,7 @@ processes, concurrency and synchronization</li>
               <li>  <a href="https://internshala.com/internships/internship-in-hyderabad/"> internshala.com </a> </li>
 
               
-              <li>  <a href="#"> Update Soon...✌️ </a> </li>
+              <li>  Update Soon...✌️  </li>
 
 
              </ul>

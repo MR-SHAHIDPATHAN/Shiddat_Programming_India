@@ -3,7 +3,7 @@ import React from 'react'
 import Home from './pages/home/Home'
 import './App.css';
 // import backend from './images/backend.png'
-import { fontWeight } from '@mui/system';
+
 
 
 
