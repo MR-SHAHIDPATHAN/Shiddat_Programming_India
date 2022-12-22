@@ -23,7 +23,7 @@ import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 
 
 
-const Shiddat_courses = () => {
+const Shiddatcourses = () => {
   return (
     <div className="shiddat_parent">
     <h1> DSA is Must in IT Career </h1>
@@ -165,4 +165,4 @@ const Shiddat_courses = () => {
   )
 }
 
-export default Shiddat_courses
+export default Shiddatcourses
