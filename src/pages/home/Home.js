@@ -18,7 +18,7 @@ const Home = () => {
 <CollegetoJob/>
     <Intro/>
     {/* <Dsa/> */}
-    <Shiddatcourses/>
+    {/* <Shiddatcourses/> */}
 
     </>
    

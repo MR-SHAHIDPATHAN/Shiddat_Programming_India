@@ -153,7 +153,9 @@ const Shiddatcourses = () => {
         <div className="wp_numbers">
           <div className="wp_number">
             <p className='admision'>  Admission Open  </p>
+            
             <p className='wps-numbers'>  <WhatsAppIcon className="wp-icon" /> 1234567890<WhatsAppIcon className="wp-icon" />1234567890</p>
+
             <p className='direct_msg'> <WhatsAppIcon className="wp-icon" /> Click Send Direct Msg</p>
           </div>
         </div>
