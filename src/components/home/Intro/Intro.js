@@ -6,6 +6,7 @@ import WorkIcon from '@mui/icons-material/Work';
 import CodeIcon from '@mui/icons-material/Code';
 import AppShortcutIcon from '@mui/icons-material/AppShortcut';
 import './Intro.css'
+import './../Shiddat_Courses/Shiddat_courses.css';
 import AppsIcon from '@mui/icons-material/Apps';
 import AssessmentIcon from '@mui/icons-material/Assessment';
 import BrandingWatermarkIcon from '@mui/icons-material/BrandingWatermark';
