@@ -212,7 +212,7 @@ margin-top: 1rem;
 
 
   .select_langs{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     padding: 1rem;
   box-shadow: rgba(255, 255, 255, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
@@ -223,7 +223,7 @@ margin-top: 1rem;
   }
 
   .select_left{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -245,7 +245,7 @@ margin-top: 1rem;
   border-radius: 1rem;
   cursor: pointer;
   margin-right: 1rem;
-  border: 1px solid orange;
+  /* border: 1px solid orange; */
 
   }
 
@@ -377,13 +377,7 @@ margin-top: 1rem;
 @media (min-width: 1025px) and (max-width: 1200px) {
   
 
-  .clg_parent{
-     /* border: 1px solid red;  */
-     /* background-color: rgb(0, 26, 255); */
-   
-  
-  
-  }
+ 
 
 
   .select-langs{
@@ -424,6 +418,24 @@ margin-top: 1rem;
 
 
 @media (min-width: 769px) and (max-width: 1024px) {
+
+
+  .clg_parent{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+    /* margin: 10px; */
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px; */
+    border-radius: 10px;
+    background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  padding: 0.5rem;
+  
+  
+  }
+
+
+
 
   .clg_parent > h1{
     text-align: center;
@@ -479,12 +491,12 @@ margin-top: 1rem;
     display: flex;
     justify-content: space-evenly;
     padding: 0.5rem;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
   }
 
 
   .semisters > .sem1{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     box-shadow: rgba(255, 255, 255, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
     padding: 0.5rem;
     border-radius: 0.5rem;
@@ -510,7 +522,7 @@ margin-top: 1rem;
     border-radius: 0.5rem;
     margin-bottom: 0.5rem;
     background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
-    color: rgb(198, 1, 1);
+    /* color: rgb(198, 1, 1); */
   
   
   }
@@ -521,14 +533,14 @@ margin-top: 1rem;
     font-size: 1rem;
     /* border: 1px solid red; */
     margin: 2rem;
-    color: red;
+    /* color: red; */
   }
 
   ul > li{
     padding: 0.5rem;
     /* border: 1px solid blue; */
     font-weight: 600;
-    color: red;
+    /* color: red; */
     font-size: 1rem;
    
   }
@@ -547,12 +559,12 @@ margin-top: 1rem;
   /* border: 1px solid red; */
   display: flex;
   flex-direction: column;
-  margin: 10px;
+  /* margin: 10px; */
   /* box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px; */
   border-radius: 10px;
  background-color: #490551;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
-padding: 1rem;
+padding: 0.5rem;
 
 
 }
@@ -560,7 +572,7 @@ padding: 1rem;
 
 .clg_parent > h1{
   text-align: center;
-  color: rgb(180, 0, 0);
+  /* color: rgb(180, 0, 0); */
   font-size: 2.5rem;
 }
 
@@ -604,7 +616,7 @@ padding: 1rem;
 
 
   .select_langs{
-    border: 1px solid red;
+    /* border: 1px solid red;/ */
     display: flex;
     padding: 1rem;
     flex-direction: column;
@@ -658,14 +670,14 @@ padding: 1rem;
 
   
 
-@media (min-width: 320px) and (max-width: 480px) {
+@media (min-width:0px) and (max-width: 480px) {
 
   
   .clg_parent{
     /* border: 1px solid red; */
     display: flex;
     flex-direction: column;
-    margin: 10px;
+    /* margin: 10px; */
     /* box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px; */
     border-radius: 10px;
    background-color: #490551;
@@ -679,7 +691,7 @@ padding: 1rem;
   .clg_parent > h1{
     text-align: center;
     color: rgb(180, 0, 0);
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
   
   .clg_parent > p{
@@ -689,6 +701,34 @@ padding: 1rem;
     font-weight: bold;
   }
   
+  .step_1{
+    background-color: rgb(255, 255, 255);
+  box-shadow: rgba(255, 255, 255, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  /* padding: 1rem; */
+border-radius: 1rem;
+margin-top: 1rem;
+
+
+
+  }
+
+
+  .step_1 > .step_1_child{
+  
+    /* padding: 1rem; */
+    background-color: aliceblue;
+    box-shadow: rgba(255, 255, 255, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+  margin-top: 1rem;
+  /* border: 1px solid red; */
+  
+    }
+
+
+
+
   
   
   .step_1_child > .step_1_p{
@@ -717,13 +757,13 @@ padding: 1rem;
     .how_to_select{
       font-size: 1rem;
       font-weight: bold;
-      margin: 1rem;
+      /* margin: 1rem; */
       text-align: center;
     }
   
   
     .select_langs{
-      border: 1px solid red;
+      /* border: 1px solid red; */
       display: flex;
       padding: 1rem;
       flex-direction: column;
@@ -739,7 +779,7 @@ padding: 1rem;
       text-decoration: none;
       font-size: 1.1rem;
       font-weight: bold;
-      padding: 1rem;
+      padding: 0.5rem;
       color: rgb(54, 54, 54);
     }
   
@@ -758,7 +798,7 @@ padding: 1rem;
       padding: 0.5rem;
       font-size: 1rem;
       /* border: 1px solid red; */
-      margin: 2rem;
+      margin: 1rem;
     }
   
     .semisters{
