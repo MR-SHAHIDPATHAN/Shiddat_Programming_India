@@ -179,7 +179,7 @@ align-items: center;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 2rem;
+  gap: 1rem;
   align-items: center;
   margin-top: 1rem;
   
@@ -197,7 +197,7 @@ align-items: center;
 
 
 
-@media (min-width: 320px) and (max-width: 480px) {
+@media (min-width: 0px) and (max-width: 480px) {
 
   .dsa_parent > h1{
     text-align: center;
@@ -220,7 +220,7 @@ align-items: center;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 2rem;
+  gap: 1rem;
   align-items: center;
   margin-top: 1rem;
   

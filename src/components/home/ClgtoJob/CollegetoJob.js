@@ -1,5 +1,7 @@
 import React from 'react'
 import "./CollegetoJob.css";
+// import "./clgto.css";
+
 
 import salary from './../../../images/salary.webp'
 import Dsa from '../DSA/Dsa';
@@ -15,7 +17,7 @@ const CollegetoJob = () => {
 
       <div className="clg_child_parent">
 
-      <div className="slider">
+          <div className="slider">
 	<div className="slide-track">
 		<div className="slide">
 			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
@@ -60,10 +62,12 @@ const CollegetoJob = () => {
 			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
 		</div>
 	</div>
-</div>
+          </div>
 
 
-        </div>
+      </div>
+
+
         <h3 className='clg_h3'> "Develop a passion for learning. If you do, you will never cease to grow "</h3>
 
 
